@@ -9,6 +9,8 @@ python val_preds.py:
 
 - used to get the predictions for validation split which is unnormalized. 
 
+Company predictions error histogram can be seen in:  
+\<company ticker>_predictions.csv 
 
 Future work:
 - Use company quarterly report as an input
